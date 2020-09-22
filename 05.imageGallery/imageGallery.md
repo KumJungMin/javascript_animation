@@ -174,7 +174,7 @@ body {
 
 <br/>
 
-### (2) javascript
+### (3) javascript
 
 [8] panel 클래스들을 모두 가져온다.
 
