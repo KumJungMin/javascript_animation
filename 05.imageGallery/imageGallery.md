@@ -2,7 +2,7 @@
 
 *바닐라js를 이용하여 mageGallery를 만들어보자!*
 
-<img width="70%" src="https://j.gifs.com/WLVx8X.gif"/>
+<img width="70%" src="./gif.gif"/>
 
 <br/>
 
