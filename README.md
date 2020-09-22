@@ -1,6 +1,6 @@
 # javascript_animation
 
-*2020.09.14 updated*
+*2020.09.23 updated*
 
 no | title | preview 
 ---- | ---- | ---- 
