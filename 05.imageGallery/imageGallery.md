@@ -1,6 +1,6 @@
-# 5. Vanilla JS는 재밌엉!  &nbsp;  mageGallery
+# 5. Vanilla JS는 재밌엉!  &nbsp;  imageGallery
 
-*바닐라js를 이용하여 mageGallery를 만들어보자!*
+*바닐라js를 이용하여 imageGallery를 만들어보자!*
 
 <img width="70%" src="./gif.gif"/>
 
