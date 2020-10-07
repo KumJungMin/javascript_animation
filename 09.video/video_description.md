@@ -2,7 +2,7 @@
 
 *바닐라js를 이용하여 비디오 플레이어를 만들어보자!*
 
-<img width="70%" src="./gif.gif"/>
+<img width="70%" src="./gif (1).gif"/>
 
 <br/>
 
