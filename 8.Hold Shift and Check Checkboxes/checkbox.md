@@ -1,4 +1,4 @@
-# 8. Vanilla JS는 재밌엉!  &nbsp;  TypeAhead
+# 8. Vanilla JS는 재밌엉!  &nbsp;  Hold Shift and Checkboxes
 
 *바닐라js를 이용하여 여러개를 체크하는 체크박스를 만들어보자!*
 
