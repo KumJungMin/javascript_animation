@@ -1,4 +1,4 @@
-# 8. Vanilla JS는 재밌엉!  &nbsp;  TypeAhead
+# 9. Vanilla JS는 재밌엉!  &nbsp;  video player
 
 *바닐라js를 이용하여 비디오 플레이어를 만들어보자!*
 
