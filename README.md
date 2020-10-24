@@ -13,6 +13,9 @@ no | title | preview
 07 | <a href="https://github.com/KumJungMin/javascript_animation/blob/master/07.TypeAhead/TypeAhead.md">Type Ahead</a> |  <img width="50%" src="https://j.gifs.com/QnMoAM.gif"/>
 08 | <a href="https://github.com/KumJungMin/javascript_animation/blob/master/8.Hold%20Shift%20and%20Check%20Checkboxes/checkbox.md">Shift&Click checkbox</a> |  <img width="50%" src="https://j.gifs.com/JyogQo.gif"/>
 09 | <a href="https://github.com/KumJungMin/javascript_animation/blob/master/09.video/video_description.md">video player</a> |  <img width="50%" src="/09.video/gif (1).gif"/>
+10 | <a href="https://github.com/KumJungMin/javascript_animation/blob/master/10.counter/counter.md">num counter</a> |  <img width="50%" src="https://j.gifs.com/q7vN5y.gif"/>
+
+
 
 
 
