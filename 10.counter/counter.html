@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>숫자 증가 이벤트</title>
+  </head>
+  <body>
+    <div class="num_animation" data-start="0" data-rate="90">0</div>
+    <div class="num_animation" data-start="5000" data-rate="5120">0</div>
+  </body>
+</html>
+
+<script>
+  //dom 가져오기
+  var numAnimation = document.querySelectorAll(".num_animation");
+
+  function changeNum(id) {
+    var intervalTime = 10;
+    var targetNum = numAnimation[id].getAttribute("data-rate");
+    var startNum = numAnimation[id].getAttribute("data-start");
+    var timer = setInterval(function () {
+      ++startNum;
+      numAnimation[id].innerText = startNum; //html에서 증가
+      if (startNum == targetNum) {
+        //stop
+        clearInterval(timer);
+      }
+    }, intervalTime);
+  }
+
+  for (var i = 0; i < numAnimation.length; i++) {
+    changeNum(i);
+  }
+</script>
